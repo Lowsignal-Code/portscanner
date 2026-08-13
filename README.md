@@ -51,8 +51,8 @@ Found 2 open port(s) in 4.31 seconds.
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/<Lowsignal-Code>/<portscanner>.git
+cd <portscanner>
 ```
 
 No further installation steps are needed since the script has no external dependencies.
