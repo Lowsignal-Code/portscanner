@@ -1,14 +1,3 @@
-"""
-Simple TCP Port Scanner
-------------------------
-A small command-line tool to scan a host for open TCP ports.
-Uses threads to speed things up instead of checking ports one by one.
-
-Example:
-    python port_scanner.py 192.168.1.1 -p 1-1024
-    python port_scanner.py example.com --ports 21,22,80,443
-"""
-
 import socket
 import sys
 import argparse
