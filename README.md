@@ -62,7 +62,7 @@ No further installation steps are needed since the script has no external depend
 Run the scanner from the terminal, providing a target hostname or IP address:
 
 ```bash
-python port_scanner.py <target>
+python Main.py <target>
 ```
 
 By default, the script scans ports 1 through 1024 using 100 threads and a 0.5 second timeout per connection.
