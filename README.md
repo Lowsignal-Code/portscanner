@@ -51,7 +51,7 @@ Found 2 open port(s) in 4.31 seconds.
 Clone the repository:
 
 ```bash
-git clone https://github.com/<HoneySpider-Code>/<portscanner>.git
+git clone https://github.com/<honeyspyder>/<portscanner>.git
 cd <portscanner>
 ```
 
